@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "resume-lbferrand-frontend-dev",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "resume-lbferrand-frontend-dev"
+  }
+}
